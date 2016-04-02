@@ -1,0 +1,10 @@
+/* Enter Your Custom CSS Here */
+li.menu-item-407 a:hover {
+	background-color: #3c5a98 !important;
+}
+li.menu-item-408 a:hover {
+	background-color: #0274b3 !important;
+}
+
+.cd-timeline-item-title{
+display:none;	}
